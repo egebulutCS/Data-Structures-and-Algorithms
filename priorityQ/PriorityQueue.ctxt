@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=PriorityQueue
+comment0.text=\r\n\ LinkedList\:\ a\ basic\ implementation\ of\ a\ singly\ linked\ list\ data\ structure.\r\n\ \r\n\ @author\ Bill\ Keller\ \r\n\ @version\ January\ 2011\r\n
+comment1.params=
+comment1.target=PriorityQueue()
+comment2.params=k\ x
+comment2.target=void\ insert(int,\ java.lang.Object)
+comment3.params=
+comment3.target=Entry\ removeMin()
+comment4.params=
+comment4.target=Entry\ removeMax()
+comment5.params=
+comment5.target=boolean\ isEmpty()
+comment6.params=
+comment6.target=int\ size()
+numComments=7

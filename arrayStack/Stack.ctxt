@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Stack
+comment0.text=\r\n\ Array-based\ implementation\ of\ the\ stack.\r\nPUBLIC\ OPERATIONS*********************\r\n\ void\ push(\ x\ )\ \ \ \ \ \ \ \ \ -->\ Insert\ x\r\n\ void\ pop(\ )\ \ \ \ \ \ \ \ \ \ \ \ -->\ Remove\ most\ recently\ inserted\ item\r\n\ ******************ERRORS********************************\r\n\ pop\ on\ empty\ stack\r\n\r\n\ @author\ Mark\ Allen\ Weiss.\ Adapted\ Bill\ Keller\ Jan\ 2011\r\n
+comment1.params=
+comment1.target=Stack()
+comment1.text=\r\n\ Construct\ the\ stack.\r\n
+comment2.params=
+comment2.target=java.lang.Object\ pop()
+comment2.text=\r\n\ Remove\ the\ most\ recently\ inserted\ item\ in\ the\ stack.\r\n\ @return\ the\ most\ recently\ inserted\ item\ in\ the\ stack.\r\n\ @throws\ UnderflowException\ if\ the\ stack\ is\ empty.\r\n
+comment3.params=newElement
+comment3.target=void\ push(java.lang.Object)
+comment3.text=\r\n\ Insert\ a\ new\ item\ into\ the\ stack.\r\n\ @param\ newElement\ the\ item\ to\ insert.\r\n
+comment4.params=
+comment4.target=boolean\ isEmpty()
+comment5.params=
+comment5.target=int\ size()
+comment6.params=
+comment6.target=java.lang.Object\ top()
+numComments=7

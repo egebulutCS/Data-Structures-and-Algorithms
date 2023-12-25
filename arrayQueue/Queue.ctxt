@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=Queue
+comment0.text=\r\n\ Class\ that\ implements\ an\ array-based\ queue.\r\n\ \r\n\ @author\ Mark\ Allen\ Weiss.\ Modified\ by\ Pablo\ Romero\ 2010.\ Modified\ by\ Bill\ Keller\ 2011/2012\r\n\ @version\ Jan\ 30th\ 2012\r\n
+comment1.params=
+comment1.target=Queue()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Queue\r\n
+comment2.params=
+comment2.target=boolean\ isEmpty()
+comment2.text=\r\n\ Test\ if\ the\ queue\ is\ logically\ empty.\r\n\ @return\ true\ if\ empty,\ false\ otherwise.\r\n
+comment3.params=item
+comment3.target=void\ enqueue(java.lang.Object)
+comment3.text=\r\n\ Insert\ a\ new\ item\ into\ the\ queue.\r\n\ @param\ item\ the\ item\ to\ insert.\r\n
+comment4.params=
+comment4.target=java.lang.Object\ dequeue()
+comment4.text=\r\n\ Return\ and\ remove\ the\ least\ recently\ inserted\ item\r\n\ from\ the\ queue.\r\n\ @return\ the\ least\ recently\ inserted\ item\ in\ the\ queue.\r\n\ @throws\ UnderflowException\ if\ the\ queue\ is\ empty.\r\n
+comment5.params=x
+comment5.target=int\ increment(int)
+comment5.text=\r\n\ Internal\ method\ to\ increment\ with\ wraparound.\r\n\ @param\ x\ any\ index\ in\ theArray's\ range.\r\n\ @return\ x+1,\ or\ 0\ if\ x\ is\ at\ the\ end\ of\ theArray.\r\n
+comment6.params=
+comment6.target=void\ doubleQueue()
+comment6.text=\r\n\ Internal\ method\ to\ expand\ theArray.\r\n
+comment7.params=
+comment7.target=int\ size()
+comment8.params=
+comment8.target=java.lang.Object\ front()
+numComments=9

@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Deque
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Deque\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Deque()
+comment2.params=
+comment2.target=boolean\ isEmpty()
+comment3.params=
+comment3.target=int\ size()
+comment4.params=item
+comment4.target=void\ addLast(java.lang.Object)
+comment5.params=
+comment5.target=java.lang.Object\ removeLast()
+comment6.params=item
+comment6.target=void\ addFirst(java.lang.Object)
+comment7.params=
+comment7.target=java.lang.Object\ removeFirst()
+comment8.params=x
+comment8.target=int\ increment(int)
+comment8.text=\r\n\ Internal\ method\ to\ increment\ with\ wraparound.\r\n\ @param\ x\ any\ index\ in\ theArray's\ range.\r\n\ @return\ x+1,\ or\ 0\ if\ x\ is\ at\ the\ end\ of\ theArray.\r\n
+comment9.params=
+comment9.target=void\ doubleQueue()
+comment9.text=\r\n\ Internal\ method\ to\ expand\ theArray.\r\n
+numComments=10
